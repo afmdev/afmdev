@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  ⚙️ I build scalable solutions with <strong>React, Next.js, Astro & TypeScript</strong>,
+  ⚙️ I build scalable solutions with <strong>React, Next.js, Astro, SolidJS & TypeScript</strong>,
   integrating Headless CMS platforms like <strong>Contentful, Storyblok & Payload</strong>
   — consistently achieving 90+ Lighthouse scores.
 </p>
