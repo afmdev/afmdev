@@ -1,22 +1,22 @@
 <h1 align="center">Hi, I'm Alejandro! 👋</h1>
 
-<p align="center">
+<p align="left">
   Front-End Developer based in <strong>Berlin</strong>, specializing in high-performance,
   accessible web applications with modern JavaScript frameworks.
 </p>
 
-<p align="center">
+<p align="left">
   ⚙️ I build scalable solutions with <strong>React, Next.js, Astro & TypeScript</strong>,
   integrating Headless CMS platforms like <strong>Contentful, Storyblok & Payload</strong>
   — consistently achieving 90+ Lighthouse scores.
 </p>
 
-<p align="center">
+<p align="left">
   🚀 Experienced in advanced caching strategies (ISR), CI/CD pipelines, and
   WCAG accessibility compliance across production-grade projects.
 </p>
 
-<p align="center">
+<p align="left">
   💎 With 10+ years bridging design and development, I bring both a strong
   technical foundation and a sharp eye for user experience.
 </p>
