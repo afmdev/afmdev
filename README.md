@@ -1,24 +1,19 @@
-<h1 align="center">Hi, I'm Alejandro! 👋</h1>
+<h1 align="center">Hey, I'm Alejandro 👋</h1>
 
 <p align="left">
-  Front-End Developer based in <strong>Berlin</strong>, specializing in high-performance,
-  accessible web applications with modern JavaScript frameworks.
+  Front-end developer based in <strong>Berlin</strong>.
 </p>
 
 <p align="left">
-  ⚙️ I build scalable solutions with <strong>React, Next.js, Astro, SolidJS & TypeScript</strong>,
-  integrating Headless CMS platforms like <strong>Contentful, Storyblok & Payload</strong>
-  — consistently achieving 90+ Lighthouse scores.
+  I build fast, accessible web applications — consistently hitting 90+ Lighthouse scores.
+  My stack centers on <strong>React, Next.js, Astro, SolidJS</strong> and <strong>TypeScript</strong>,
+  with Headless CMS integrations (Contentful, Storyblok, Payload) and advanced caching
+  strategies like ISR.
 </p>
 
 <p align="left">
-  🚀 Experienced in advanced caching strategies (ISR), CI/CD pipelines, and
-  WCAG accessibility compliance across production-grade projects.
-</p>
-
-<p align="left">
-  💎 With 10+ years bridging design and development, I bring both a strong
-  technical foundation and a sharp eye for user experience.
+  With 10+ years bridging design and development, I care as much about the user experience
+  as the architecture behind it — from WCAG compliance to CI/CD pipelines.
 </p>
 
 <table style="width:100%"><tbody><tr><td align="center" width="50%"><h2>MERN Marketplace</h2><img src="https://alejandrofm.com/github/mern.jpg" width="100%"/><a href="https://githug.com/alejanfm/cab-mern-marketplace"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" data-canonical-src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&amp;logo=GitHub" style="max-width: 100%;" target="_blank"></a> <a href="https://mern.alejandrofm.com" rel="nofollow"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" data-canonical-src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&amp;logo&amp;color=2D96D9" style="max-width: 100%;" target="_blank"></a></td><td align="center" width="50%"><h2>Fakeshop</h2><img src="https://alejandrofm.com/github/fakeshop.jpg" width="100%"/><a href="https://githug.com/alejanfm/cab-react-fakeshop"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" data-canonical-src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&amp;logo=GitHub" style="max-width: 100%;" target="_blank"></a> <a href="https://fakeshop.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" data-canonical-src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&amp;logo&amp;color=2D96D9" style="max-width: 100%;" target="_blank"></a></td></tr><tr><td align="center" width="50%"><h2>Rick & Morty API</h2> <img src="https://alejandrofm.com/github/rickmorty.gif" width="100%"/><a href="https://githug.com/alejanfm/cab-react-rick-and-morty"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" data-canonical-src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&amp;logo=GitHub" style="max-width: 100%;" target="_blank"></a> <a href="https://rickmorty.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" data-canonical-src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&amp;logo&amp;color=2D96D9" style="max-width: 100%;" target="_blank"></a></td><td align="center" width="50%"><h2>Pixabay API</h2><img src="https://alejandrofm.com/github/pixabay.gif" width="100%"/><a href="https://githug.com/alejanfm/cab-javascript-events-bootstrap"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" data-canonical-src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&amp;logo=GitHub" style="max-width: 100%;" target="_blank"></a> <a href="https://jsevents.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" data-canonical-src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&amp;logo&amp;color=2D96D9" style="max-width: 100%;" target="_blank"></a></td></tr></tbody></table>
