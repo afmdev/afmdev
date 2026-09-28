@@ -1,22 +1,45 @@
 <h1 align="center">Hey, I'm Alejandro 👋</h1>
 
 <p align="left">
-  Front-end developer based in <strong>Berlin</strong>.
+  <strong>Frontend Developer</strong> with 15+ years in web/UI and 3+ years specializing in <strong>React, Next.js</strong>, and <strong>TypeScript</strong>, recently extended to cross-platform mobile (<strong>React Native</strong>) and <strong>NestJS</strong> backends. EU citizen, based in <strong>Berlin</strong>.
 </p>
 
 <p align="left">
-  I build fast, accessible web applications — consistently hitting 90+ Lighthouse scores.
-  My stack centers on <strong>React, Next.js, Astro, SolidJS</strong> and <strong>TypeScript</strong>,
-  with Headless CMS integrations (Contentful, Storyblok, Payload) and advanced caching
-  strategies like ISR.
+  Consistent track record of <strong>90+ Lighthouse scores</strong> and measurable impact: from cutting server costs 30% via ISR strategies to improving Core Web Vitals by 20%. Rated <em>"hervorragend" (1.0)</em> in the last formal review.
 </p>
 
-<p align="left">
-  With 10+ years bridging design and development, I care as much about the user experience
-  as the architecture behind it — from WCAG compliance to CI/CD pipelines.
-</p>
-
-<table style="width:100%"><tbody><tr><td align="center" width="50%"><h2>MERN Marketplace</h2><img src="https://alejandrofm.com/github/mern.jpg" width="100%"/><a href="https://githug.com/alejanfm/cab-mern-marketplace"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" data-canonical-src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&amp;logo=GitHub" style="max-width: 100%;" target="_blank"></a> <a href="https://mern.alejandrofm.com" rel="nofollow"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" data-canonical-src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&amp;logo&amp;color=2D96D9" style="max-width: 100%;" target="_blank"></a></td><td align="center" width="50%"><h2>Fakeshop</h2><img src="https://alejandrofm.com/github/fakeshop.jpg" width="100%"/><a href="https://githug.com/alejanfm/cab-react-fakeshop"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" data-canonical-src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&amp;logo=GitHub" style="max-width: 100%;" target="_blank"></a> <a href="https://fakeshop.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" data-canonical-src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&amp;logo&amp;color=2D96D9" style="max-width: 100%;" target="_blank"></a></td></tr><tr><td align="center" width="50%"><h2>Rick & Morty API</h2> <img src="https://alejandrofm.com/github/rickmorty.gif" width="100%"/><a href="https://githug.com/alejanfm/cab-react-rick-and-morty"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" data-canonical-src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&amp;logo=GitHub" style="max-width: 100%;" target="_blank"></a> <a href="https://rickmorty.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" data-canonical-src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&amp;logo&amp;color=2D96D9" style="max-width: 100%;" target="_blank"></a></td><td align="center" width="50%"><h2>Pixabay API</h2><img src="https://alejandrofm.com/github/pixabay.gif" width="100%"/><a href="https://githug.com/alejanfm/cab-javascript-events-bootstrap"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" data-canonical-src="https://img.shields.io/badge/%20-Repo-lightgrey?style=for-the-badge&amp;logo=GitHub" style="max-width: 100%;" target="_blank"></a> <a href="https://jsevents.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" data-canonical-src="https://img.shields.io/badge/%20-Live%20Site-a6b4a2?style=for-the-badge&amp;logo&amp;color=2D96D9" style="max-width: 100%;" target="_blank"></a></td></tr></tbody></table>
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <td align="center" width="50%">
+        <h2>MERN Marketplace</h2>
+        <img src="https://alejandrofm.com/github/mern.jpg" width="100%"/>
+        <a href="https://github.com/alejanfm/cab-mern-marketplace" target="_blank"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" style="max-width: 100%;"></a>
+        <a href="https://mern.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" style="max-width: 100%;"></a>
+      </td>
+      <td align="center" width="50%">
+        <h2>Fakeshop</h2>
+        <img src="https://alejandrofm.com/github/fakeshop.jpg" width="100%"/>
+        <a href="https://github.com/alejanfm/cab-react-fakeshop" target="_blank"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" style="max-width: 100%;"></a>
+        <a href="https://fakeshop.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" style="max-width: 100%;"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h2>Rick & Morty API</h2>
+        <img src="https://alejandrofm.com/github/rickmorty.gif" width="100%"/>
+        <a href="https://github.com/alejanfm/cab-react-rick-and-morty" target="_blank"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" style="max-width: 100%;"></a>
+        <a href="https://rickmorty.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" style="max-width: 100%;"></a>
+      </td>
+      <td align="center" width="50%">
+        <h2>Pixabay API</h2>
+        <img src="https://alejandrofm.com/github/pixabay.gif" width="100%"/>
+        <a href="https://github.com/alejanfm/cab-javascript-events-bootstrap" target="_blank"><img src="https://www.alejandrofm.com/github/repo.svg" alt="GitHub Repo" style="max-width: 100%;"></a>
+        <a href="https://jsevents.alejandrofm.com" rel="nofollow" target="_blank"><img src="https://www.alejandrofm.com/github/live.svg" alt="Live Site" style="max-width: 100%;"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <!--
