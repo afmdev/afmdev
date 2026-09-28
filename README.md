@@ -1,12 +1,22 @@
 <h1 align="center">Hey, I'm Alejandro 👋</h1>
 
 <p align="left">
-  <strong>Frontend Developer</strong> with 15+ years in web/UI and 3+ years specializing in <strong>React, Next.js</strong>, and <strong>TypeScript</strong>, recently extended to cross-platform mobile (<strong>React Native</strong>) and <strong>NestJS</strong> backends. EU citizen, based in <strong>Berlin</strong>.
+  <strong>Frontend Developer</strong> with 15+ years in web/UI and 3+ years specializing in <strong>React, Next.js, and TypeScript</strong>, with modern framework depth in <strong>Astro</strong> and <strong>SolidJS</strong>. Recently expanded into cross-platform mobile (<strong>React Native</strong>) and <strong>NestJS</strong> backends. EU citizen, based in <strong>Berlin</strong>.
 </p>
 
 <p align="left">
-  Consistent track record of <strong>90+ Lighthouse scores</strong> and measurable impact: from cutting server costs 30% via ISR strategies to improving Core Web Vitals by 20%. Rated <em>"hervorragend" (1.0)</em> in the last formal review.
+  Proven track record of delivering <strong>90+ Lighthouse scores</strong> and measurable business impact—from cutting server costs by <strong>30% via ISR strategies</strong> to boosting Core Web Vitals by <strong>20%</strong>. Rated <em>"hervorragend" (1.0)</em> in my most recent formal performance review.
 </p>
+
+### 🛠️ Technical Stack & Skills
+
+- 🎨 **UI & Frontend Core:** HTML5, CSS3, Tailwind CSS, CSS Grid, Flexbox, Responsive Design, WCAG 2.1 AA, Core Web Vitals, SEO, PWA
+- ⚡ **JavaScript & Frameworks:** React, React Native, Next.js, Astro, SolidJS, TypeScript, JavaScript (ES6+)
+- 📝 **CMS & Content:** Contentful, Storyblok, Payload CMS, AdminJS, WordPress (Headless & Traditional)
+- 🔌 **Backend & APIs:** Node.js, NestJS, Express.js, Prisma, RESTful APIs, GraphQL, OpenAPI, Socket.io, Serverless Functions
+- 🗄️ **Databases:** MongoDB, PostgreSQL, Firebase/Firestore
+- 🚀 **DevOps & Testing:** Git, GitHub Actions, Vercel, Docker, Fastlane, Playwright, Jest, Sentry
+- 🖌️ **Design & Tools:** Figma, Affinity, Mailchimp
 
 <table style="width:100%">
   <tbody>
